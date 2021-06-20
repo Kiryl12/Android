@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/sony"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/tvNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Let's start "
+        android:textColor="#343009"
+        android:shadowColor="#74CBDF"
+        android:shadowRadius="10"
+        android:textSize="30dp"
+        />
+
+    <Button
+        android:id ="@+id/randNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Click to generate and display a random number"
+        android:backgroundTint="@color/green"
+        android:onClick="getRandomNumber"
+        />
+
+    <Button
+        android:id="@+id/totalClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Total number of clicks"
+        android:textColor="@color/brownText"
+        android:backgroundTint="@color/yellow"
+        />
+
+    <Button
+        android:id="@+id/resetNumb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Reset"
+        android:onClick="reset"
+        android:backgroundTint="@color/red"
+        />
+
+
+
+</LinearLayout>
