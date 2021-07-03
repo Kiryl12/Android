@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         int position = sp.getSelectedItemPosition();
         String description = getDescriptionExercise(position);
         tx.setText(description);
-        //tx.setTextSize(20);
+        tx.setTextSize(15);
     }
 
     public String getDescriptionExercise(int position){
