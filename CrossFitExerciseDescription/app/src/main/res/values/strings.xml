@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CrossFitExerciseDescription</string>
+    <string name="desc">Description</string>
+
+    <string-array name="exercise">
+        <item>Pull-up</item>
+        <item>Push-up</item>
+        <item>Burpee</item>
+        <item>Squat</item>
+        <item>Plank</item>
+        <item>Sit-up</item>
+    </string-array>
+
+    <string-array name="exercise_description">
+        <item>A pull-up is an upper-body strength exercise. The pull-up is a closed-chain movement where the body is suspended by the hands and pulls up. As this happens, the elbows flex and the shoulders adduct and extend to bring the elbows to the torso.</item>
+        <item>A push-up is a common calisthenics exercise beginning from the prone position. By raising and lowering the body using the arms, push-ups exercise the pectoral muscles, triceps, and anterior deltoids, with ancillary benefits to the rest of the deltoids, serratus anterior, coracobrachialis and the midsection as a whole.</item>
+        <item>The burpee, a squat thrust with an additional stand between reps, is a full body exercise used in strength training. The movement itself is primarily an anaerobic exercise, but when done in succession over a longer period can be utilized in as an aerobic exercise.</item>
+        <item>A squat is a strength exercise in which the trainee lowers their hips from a standing position and then stands back up. During the descent of a squat, the hip and knee joints flex while the ankle joint dorsiflexes, conversely the hip and knee joints extend and the ankle joint plantarflexes when standing up.</item>
+        <item>The plank is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time</item>
+        <item>The sit-up is an abdominal endurance training exercise to strengthen, tighten and tone the abdominal muscles. It is similar to a crunch, but sit-ups have a fuller range of motion and condition additional muscles.</item>
+    </string-array>
+</resources>
