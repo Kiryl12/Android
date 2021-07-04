@@ -1,4 +1,0 @@
-com/example/android/userinfo001/BuildConfig.java
- com.example.android.userinfo001.BuildConfig
-com/example/android/userinfo001/MainActivity.java
- com.example.android.userinfo001.MainActivity
