@@ -1,0 +1,4 @@
+com/example/android/apparray001/BuildConfig.java
+ com.example.android.apparray001.BuildConfig
+com/example/android/apparray001/MainActivity.java
+ com.example.android.apparray001.MainActivity

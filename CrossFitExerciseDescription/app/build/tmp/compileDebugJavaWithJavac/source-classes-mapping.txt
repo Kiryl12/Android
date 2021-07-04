@@ -1,0 +1,4 @@
+com/example/android/crossfitexercisedescription/BuildConfig.java
+ com.example.android.crossfitexercisedescription.BuildConfig
+com/example/android/crossfitexercisedescription/MainActivity.java
+ com.example.android.crossfitexercisedescription.MainActivity

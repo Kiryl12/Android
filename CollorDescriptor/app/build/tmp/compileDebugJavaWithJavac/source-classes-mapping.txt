@@ -1,0 +1,4 @@
+com/example/android/collordescriptor/BuildConfig.java
+ com.example.android.collordescriptor.BuildConfig
+com/example/android/collordescriptor/MainActivity.java
+ com.example.android.collordescriptor.MainActivity

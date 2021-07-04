@@ -1,0 +1,6 @@
+com/example/android/soccertablerandomizer/ResultOfTheDraw.java
+ com.example.android.soccertablerandomizer.ResultOfTheDraw
+com/example/android/soccertablerandomizer/BuildConfig.java
+ com.example.android.soccertablerandomizer.BuildConfig
+com/example/android/soccertablerandomizer/MainActivity.java
+ com.example.android.soccertablerandomizer.MainActivity
